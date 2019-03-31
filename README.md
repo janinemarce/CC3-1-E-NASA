@@ -13,4 +13,4 @@ N.A.S.A. is a modified version of the classic Asteroids 2D game with a twist of 
 Gameplay:
 Move the spaceship using the left, forward, and right button controls on your keyboard.
 Simply AVOID colliding with asteroids and shots from a flying saucer that appears throughout the game The Ship will automatically shoot bullets to destroy asteroids ahead.
-Lives : 3  If lives &lt; 3 = GAME OVER!!
+Lives : 3  If lives == 0, GAME OVER!!
